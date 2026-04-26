@@ -59,7 +59,7 @@ It includes:
 
 ### Sales Overview
 
-![Sales Overview](Screenshots/Sales_Overview.png)
+![Sales Overview](https://github.com/tanishashirolkar/Sales-Profit-Dashboard/blob/main/Sales_Overview.png)
 
 ### Profit Analysis
 

@@ -33,7 +33,6 @@ It includes:
 * Total Profit indicator
 * Average Profit Margin
 * Profit by category
-* Top 5 sub-categories by profit
 * Sales vs Profit comparison across regions
 * Profit contribution by customer segment
 

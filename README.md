@@ -63,7 +63,7 @@ It includes:
 
 ### Profit Analysis
 
-![Profit Analysis](Screenshots/Profit_Analysis.png)
+![Profit Analysis](https://github.com/tanishashirolkar/Sales-Profit-Dashboard/blob/main/Profit_Analysis.png)
 
 ---
 
